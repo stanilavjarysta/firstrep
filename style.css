@@ -1,0 +1,15 @@
+/*konteineris*/
+.captcha {
+    display: flex;
+    margin: 20px;
+}
+
+
+/*flex elementai/*/
+   .firstNumber,
+   .plus,
+   .secondNumber,
+   .equal,
+   .result {
+       margin-right: 3%;
+   }
